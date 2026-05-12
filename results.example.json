@@ -1,0 +1,10 @@
+{
+  "baseline": {
+    "per_channel_db": [0.0, 0.0, 0.0, 0.0],
+    "average_db": 0.0
+  },
+  "yours": {
+    "per_channel_db": [0.0, 0.0, 0.0, 0.0],
+    "average_db": 0.0
+  }
+}
